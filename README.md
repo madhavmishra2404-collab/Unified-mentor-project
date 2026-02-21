@@ -7,11 +7,10 @@ These projects focus on **data analysis, business insights, and machine learning
 
 ## 📂 Folder Structure
 Unified-Mentor-Internship-Projects/
-│
-├── Data/ → Raw datasets (CSV files)
-├── Notebook/ → Jupyter notebooks for analysis & modeling
-├── Result/ → Final result files & business summaries
-└── README.md
+- Data/ → All datasets (CSV files)  
+- Notebook/ → Jupyter notebooks for each project  
+- Result/ → Final result files and exported outputs 
+- README.md
 ---
 
 
@@ -58,6 +57,5 @@ Unified-Mentor-Internship-Projects/
 ---
 
 ## 🚀 How to Run
-
- 
+git clone https://github.com/madhavmishra2404-collab/Unified-mentor-project.git
    
